@@ -29,3 +29,5 @@ functional requirements:
 20. customer should get email regarding the change in the status of the loan
 21. customer can raise any complaint/issue raegrading loan or EMI
 22. loan amount should be disbusrsed to tehe customer post loan approval
+23. customer can view the existing loan details
+24. customer has to pay fine for late payment of EMI
