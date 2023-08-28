@@ -1,0 +1,31 @@
+Finance Project:
+
+
+functional requirements:
+
+1. authentication required for any user
+2. authorization is required to find out whether an user is customer or clerk or manager
+3. register a customer
+4. customer can apply for loan online
+5. clerk can apply for loan online on behalf of customer
+6. both clerk and customer can view and select the loan type
+7. customer can uplod the documents required for loan
+8. clerk can uplod the documents required for loan on behalf of a customer
+9. customer can create their profile
+10. customer can edit their profile
+11. customers can calculate the EMI before applying fpr the loan
+12. customer can view the status their loan application
+13. clerk can view all loan applications
+14. clerk can view a loan application filtered by loan application id
+15. clerk can view all loan applications filtered by any date
+16. clerk can view all loan application filtered by loan type
+13. manager can view all loan applications
+14. manager can view a loan application filtered by loan application id
+15. manager can view all loan applications filtered by any date
+16. manager can view all loan application filtered by loan type
+17. manager can approve the loan application
+18. manager can reject the loan application
+19. customer can cancel the loan application
+20. customer should get email regarding the change in the status of the loan
+21. customer can raise any complaint/issue raegrading loan or EMI
+22. loan amount should be disbusrsed to tehe customer post loan approval
