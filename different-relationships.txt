@@ -21,6 +21,8 @@ UI							BL												DAL
 							NoteBusinessManager						NotePersistanceManager
 button click			List<Note> fetchNotes()					List<Note> getNotes()
 																			addNote(Note note)
+Association Class:
+
 
 Qualified association: itemId (string) => qualifier
 class Note{
