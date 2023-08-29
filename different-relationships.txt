@@ -1,0 +1,31 @@
+association:
+	1-1, 1-M, M-1, M-M
+
+Aggregation:
+	part-of relationship
+	Car and Wheel
+
+Composition:
+	whole-part relationship
+	
+	Person and Heart, Kidney, Liver
+	Building and Room
+
+Directed Association:
+Note 				Image, Photo, Sketch
+
+Dependency
+
+
+UI							BL												DAL
+							NoteBusinessManager						NotePersistanceManager
+button click			List<Note> fetchNotes()					List<Note> getNotes()
+																			addNote(Note note)
+
+Qualified association: itemId (string) => qualifier
+class Note{
+	SortedList<string,Image>
+}
+
+
+	

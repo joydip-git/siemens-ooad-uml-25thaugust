@@ -1,0 +1,28 @@
+UML:
+	a. System
+	b. Model =>
+			1. Basic building blocks
+				=>
+					i. things
+						structural things (class, interface, object, use case, use case subject, actor etc.)
+						behavioral things ( start, end, decision, activity etc.)
+						grouping things
+						annotational things
+					ii. relationship ( association, directed ssociation, dependency, aggregation, composition, generalization, relaization, association class, qualified association etc.)
+					iii. diagrams
+						a. structural
+							class, component, object, package, deployment, composite structure
+						b. behavioral
+							use case, activity, state machine, interaction => Iteraction overview, communication, sequence, timing
+			2. Rules
+			3. Common Mechanisms
+				a. Specifications
+				b. Adornments
+				c. Common Divisions
+				d. Extensibility Mechanisms => stereotype, constraint, tagged definition, tag value
+	c. View
+		- Use case view
+		- Design view
+		- Implementation view
+		- Process view
+		- Development view
