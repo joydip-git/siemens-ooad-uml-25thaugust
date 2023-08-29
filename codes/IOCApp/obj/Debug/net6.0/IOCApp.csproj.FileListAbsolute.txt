@@ -1,0 +1,15 @@
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\bin\Debug\net6.0\IOCApp.exe
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\bin\Debug\net6.0\IOCApp.deps.json
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\bin\Debug\net6.0\IOCApp.runtimeconfig.json
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\bin\Debug\net6.0\IOCApp.dll
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\bin\Debug\net6.0\IOCApp.pdb
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\IOCApp.csproj.AssemblyReference.cache
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\IOCApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\IOCApp.AssemblyInfoInputs.cache
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\IOCApp.AssemblyInfo.cs
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\IOCApp.csproj.CoreCompileInputs.cache
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\IOCApp.dll
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\refint\IOCApp.dll
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\IOCApp.pdb
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\IOCApp.genruntimeconfig.cache
+E:\training\siemens-ooad-uml-25thaugust\codes\IOCApp\obj\Debug\net6.0\ref\IOCApp.dll
