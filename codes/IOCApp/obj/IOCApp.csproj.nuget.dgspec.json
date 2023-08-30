@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\IOCApp.csproj": {}
+    "e:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\IOCApp.csproj": {}
   },
   "projects": {
-    "E:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\IOCApp.csproj": {
+    "e:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\IOCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\IOCApp.csproj",
+        "projectUniqueName": "e:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\IOCApp.csproj",
         "projectName": "IOCApp",
-        "projectPath": "E:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\IOCApp.csproj",
+        "projectPath": "e:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\IOCApp.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\obj\\",
+        "outputPath": "e:\\training\\siemens-ooad-uml-25thaugust\\codes\\IOCApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
