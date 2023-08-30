@@ -1,14 +1,25 @@
 namespace CombinedFragment
 {
-    public class PersistenceManager
+    public class PersistenceManager : IDisposable
     {
+        ~PersistenceManager()
+        {
+            //connection.Close();
+        }
+
+        public void Dispose()
+        {
+            //connection.Close();
+        }
+
+
         public List<Loan> GetAllLoans()
         {
-            SqlDataReader reader = new SqlCommand().
-            List < Loan > loanList = new List<Loan>();
-            foreach (var item in loans)
+            SqlDataReader reader = new SqlCommand().ExecuteQuery();
+            List<Loan> loanList = new List<Loan>();
+            while (reader.Read())
             {
-                loanList.Add(this.ConvertToLoan(item));
+                loanList.Add(this.ConvertToLoan(reader));
             }
             return loanList;
         }
